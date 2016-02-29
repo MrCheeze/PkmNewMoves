@@ -4,6 +4,6 @@ With Gen 1 now being able to Transfer to Gen 7 via Bank, some pkm are getting ne
 # Run
 run with 
     
-    newmoves.py
+    python2 newmoves.py
 
 with python2.7 to give console output of the new moves.
