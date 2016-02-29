@@ -1,0 +1,1233 @@
+001 Bulbasaur:
+Bide
+Mega Drain
+Rage
+Reflect
+
+002 Ivysaur:
+Bide
+Mega Drain
+Rage
+Reflect
+
+003 Venusaur:
+Bide
+Mega Drain
+Rage
+Reflect
+
+004 Charmander:
+Bide
+Leer
+Rage
+Reflect
+Skull Bash
+Submission
+Take Down
+
+005 Charmeleon:
+Bide
+Leer
+Rage
+Reflect
+Skull Bash
+Submission
+Take Down
+
+006 Charizard:
+Bide
+Leer
+Rage
+Reflect
+Skull Bash
+Submission
+Take Down
+
+007 Squirtle:
+Bide
+Bubble Beam
+Rage
+Reflect
+Submission
+Take Down
+
+008 Wartortle:
+Bide
+Bubble Beam
+Rage
+Reflect
+Submission
+Take Down
+
+009 Blastoise:
+Bide
+Bubble Beam
+Fissure
+Rage
+Reflect
+Submission
+Take Down
+
+010 Caterpie:
+
+011 Metapod:
+
+012 Butterfree:
+Bide
+Mega Drain
+Psywave
+Rage
+Razor Wind
+Reflect
+Take Down
+Teleport
+
+013 Weedle:
+
+014 Kakuna:
+
+015 Beedrill:
+Bide
+Mega Drain
+Reflect
+Skull Bash
+Take Down
+
+016 Pidgey:
+Bide
+Rage
+Razor Wind
+Reflect
+Sand-Attack
+Take Down
+
+017 Pidgeotto:
+Bide
+Rage
+Razor Wind
+Reflect
+Sand-Attack
+Take Down
+
+018 Pidgeot:
+Bide
+Rage
+Razor Wind
+Reflect
+Sand-Attack
+Take Down
+
+019 Rattata:
+Bide
+Bubble Beam
+Rage
+Skull Bash
+Take Down
+Water Gun
+
+020 Raticate:
+Bide
+Bubble Beam
+Rage
+Skull Bash
+Take Down
+Water Gun
+
+021 Spearow:
+Bide
+Rage
+Take Down
+
+022 Fearow:
+Bide
+Rage
+Take Down
+
+023 Ekans:
+Bide
+Fissure
+Mega Drain
+Rage
+Skull Bash
+Take Down
+
+024 Arbok:
+Bide
+Fissure
+Mega Drain
+Rage
+Skull Bash
+Take Down
+
+025 Pikachu:
+Pay Day
+Rage
+Reflect
+Skull Bash
+Submission
+Take Down
+
+026 Raichu:
+Pay Day
+Rage
+Reflect
+Skull Bash
+Submission
+Take Down
+
+027 Sandshrew:
+Bide
+Fissure
+Rage
+Sand-Attack
+Skull Bash
+Submission
+Take Down
+
+028 Sandslash:
+Bide
+Fissure
+Rage
+Sand-Attack
+Skull Bash
+Submission
+Take Down
+
+029 Nidoran-f:
+Bide
+Rage
+Reflect
+Tackle
+
+030 Nidorina:
+Bide
+Bubble Beam
+Horn Drill
+Rage
+Reflect
+Tackle
+Water Gun
+
+031 Nidoqueen:
+Bide
+Bubble Beam
+Fissure
+Horn Drill
+Pay Day
+Rage
+Reflect
+Submission
+Tackle
+Water Gun
+
+032 Nidoran-m:
+Bide
+Rage
+Reflect
+Skull Bash
+Tackle
+
+033 Nidorino:
+Bide
+Bubble Beam
+Rage
+Reflect
+Skull Bash
+Tackle
+Water Gun
+
+034 Nidoking:
+Bide
+Bubble Beam
+Fissure
+Pay Day
+Rage
+Reflect
+Skull Bash
+Submission
+Tackle
+Water Gun
+
+035 Clefairy:
+Bide
+Bubble Beam
+Psywave
+Rage
+Skull Bash
+Submission
+Take Down
+Teleport
+Tri Attack
+Water Gun
+
+036 Clefable:
+Bide
+Bubble Beam
+Psywave
+Rage
+Skull Bash
+Submission
+Take Down
+Teleport
+Tri Attack
+Water Gun
+
+037 Vulpix:
+Bide
+Rage
+Reflect
+Skull Bash
+Take Down
+
+038 Ninetales:
+Bide
+Body Slam
+Double-Edge
+Mimic
+Rage
+Reflect
+Skull Bash
+Swift
+Tail Whip
+Take Down
+
+039 Jigglypuff:
+Bide
+Bubble Beam
+Psywave
+Rage
+Skull Bash
+Submission
+Take Down
+Teleport
+Tri Attack
+Water Gun
+
+040 Wigglytuff:
+Bide
+Bubble Beam
+Psywave
+Rage
+Skull Bash
+Submission
+Take Down
+Teleport
+Tri Attack
+Water Gun
+
+041 Zubat:
+Bide
+Mega Drain
+Rage
+Razor Wind
+Take Down
+
+042 Golbat:
+Bide
+Mega Drain
+Rage
+Razor Wind
+Take Down
+
+043 Oddish:
+Bide
+Rage
+Reflect
+Take Down
+
+044 Gloom:
+Bide
+Rage
+Reflect
+Take Down
+
+045 Vileplume:
+Bide
+Rage
+Reflect
+Sleep Powder
+Take Down
+
+046 Paras:
+Bide
+Mega Drain
+Rage
+Reflect
+Skull Bash
+Take Down
+
+047 Parasect:
+Bide
+Mega Drain
+Rage
+Reflect
+Skull Bash
+Take Down
+
+048 Venonat:
+Bide
+Mega Drain
+Psywave
+Rage
+Reflect
+Take Down
+
+049 Venomoth:
+Bide
+Mega Drain
+Psywave
+Rage
+Razor Wind
+Reflect
+Take Down
+Teleport
+Whirlwind
+
+050 Diglett:
+Bide
+Rage
+Sand-Attack
+Take Down
+
+051 Dugtrio:
+Bide
+Rage
+Sand-Attack
+Take Down
+
+052 Meowth:
+Bide
+Bubble Beam
+Rage
+Skull Bash
+Take Down
+Water Gun
+
+053 Persian:
+Bide
+Bubble Beam
+Rage
+Skull Bash
+Take Down
+Water Gun
+
+054 Psyduck:
+Bide
+Bubble Beam
+Pay Day
+Rage
+Skull Bash
+Submission
+Take Down
+
+055 Golduck:
+Bide
+Bubble Beam
+Pay Day
+Rage
+Skull Bash
+Submission
+Take Down
+
+056 Mankey:
+Bide
+Pay Day
+Rage
+Skull Bash
+Submission
+Take Down
+
+057 Primeape:
+Bide
+Pay Day
+Skull Bash
+Submission
+Take Down
+
+058 Growlithe:
+Bide
+Dragon Rage
+Rage
+Reflect
+Skull Bash
+
+059 Arcanine:
+Bide
+Dragon Rage
+Leer
+Rage
+Reflect
+Skull Bash
+Take Down
+Teleport
+
+060 Poliwag:
+Amnesia
+Bide
+Psywave
+Rage
+Skull Bash
+Take Down
+
+061 Poliwhirl:
+Amnesia
+Bide
+Fissure
+Psywave
+Rage
+Skull Bash
+Submission
+Take Down
+
+062 Poliwrath:
+Bide
+Fissure
+Psywave
+Rage
+Skull Bash
+Take Down
+Water Gun
+
+063 Abra:
+Bide
+Psywave
+Rage
+Skull Bash
+Submission
+Take Down
+Tri Attack
+
+064 Kadabra:
+Bide
+Dig
+Psywave
+Rage
+Skull Bash
+Submission
+Take Down
+Tri Attack
+
+065 Alakazam:
+Bide
+Dig
+Psywave
+Rage
+Skull Bash
+Submission
+Take Down
+Tri Attack
+
+066 Machop:
+Bide
+Fissure
+Rage
+Skull Bash
+Take Down
+
+067 Machoke:
+Bide
+Fissure
+Rage
+Skull Bash
+Take Down
+
+068 Machamp:
+Bide
+Fissure
+Rage
+Skull Bash
+Take Down
+
+069 Bellsprout:
+Bide
+Mega Drain
+Rage
+Take Down
+
+070 Weepinbell:
+Bide
+Mega Drain
+Rage
+Take Down
+
+071 Victreebel:
+Bide
+Mega Drain
+Rage
+Stun Spore
+Take Down
+Wrap
+
+072 Tentacool:
+Bide
+Mega Drain
+Rage
+Reflect
+Skull Bash
+Take Down
+Water Gun
+
+073 Tentacruel:
+Bide
+Mega Drain
+Rage
+Reflect
+Skull Bash
+Take Down
+Water Gun
+
+074 Geodude:
+Bide
+Fissure
+Harden
+Rage
+Submission
+Take Down
+
+075 Graveler:
+Bide
+Fissure
+Harden
+Rage
+Submission
+Take Down
+
+076 Golem:
+Bide
+Fissure
+Harden
+Rage
+Submission
+Take Down
+
+077 Ponyta:
+Bide
+Rage
+Reflect
+Skull Bash
+
+078 Rapidash:
+Bide
+Rage
+Reflect
+Skull Bash
+
+079 Slowpoke:
+Bide
+Bubble Beam
+Fissure
+Pay Day
+Psywave
+Rage
+Reflect
+Skull Bash
+Take Down
+Teleport
+Tri Attack
+
+080 Slowbro:
+Bide
+Bubble Beam
+Fissure
+Pay Day
+Psywave
+Rage
+Reflect
+Skull Bash
+Submission
+Take Down
+Teleport
+Tri Attack
+
+081 Magnemite:
+Bide
+Rage
+Take Down
+Teleport
+
+082 Magneton:
+Bide
+Rage
+Take Down
+Teleport
+
+083 Farfetch'd:
+Rage
+Razor Wind
+Sand-Attack
+Skull Bash
+Take Down
+Whirlwind
+
+084 Doduo:
+Bide
+Reflect
+Skull Bash
+Take Down
+Tri Attack
+Whirlwind
+
+085 Dodrio:
+Bide
+Reflect
+Skull Bash
+Take Down
+Whirlwind
+
+086 Seel:
+Bide
+Bubble Beam
+Pay Day
+Rage
+Skull Bash
+Strength
+Water Gun
+
+087 Dewgong:
+Bide
+Bubble Beam
+Pay Day
+Rage
+Skull Bash
+Strength
+Water Gun
+
+088 Grimer:
+Bide
+Mega Drain
+Rage
+
+089 Muk:
+Bide
+Mega Drain
+Rage
+
+090 Shellder:
+Bide
+Rage
+Reflect
+Teleport
+Tri Attack
+Water Gun
+
+091 Cloyster:
+Bide
+Clamp
+Rage
+Reflect
+Teleport
+Tri Attack
+Water Gun
+
+092 Gastly:
+Bide
+Mega Drain
+Rage
+Skull Bash
+Thunder
+
+093 Haunter:
+Bide
+Mega Drain
+Rage
+Skull Bash
+Thunder
+
+094 Gengar:
+Bide
+Mega Drain
+Rage
+Skull Bash
+Submission
+Take Down
+
+095 Onix:
+Bide
+Fissure
+Take Down
+Teleport
+
+096 Drowzee:
+Bide
+Psywave
+Rage
+Skull Bash
+Submission
+Take Down
+Teleport
+Tri Attack
+
+097 Hypno:
+Bide
+Psywave
+Rage
+Skull Bash
+Submission
+Take Down
+Teleport
+Tri Attack
+
+098 Krabby:
+Rage
+Skull Bash
+Take Down
+Water Gun
+
+099 Kingler:
+Rage
+Skull Bash
+Take Down
+Water Gun
+
+100 Voltorb:
+Bide
+Reflect
+Take Down
+Teleport
+
+101 Electrode:
+Bide
+Reflect
+Take Down
+Teleport
+
+102 Exeggcute:
+Bide
+Egg Bomb
+Psywave
+Rage
+Take Down
+Teleport
+
+103 Exeggutor:
+Bide
+Mega Drain
+Psywave
+Rage
+Take Down
+Teleport
+
+104 Cubone:
+Bide
+Bubble Beam
+Fissure
+Submission
+Take Down
+Water Gun
+
+105 Marowak:
+Bide
+Bubble Beam
+Fissure
+Submission
+Take Down
+Water Gun
+
+106 Hitmonlee:
+Bide
+Hi Jump Kick
+Rage
+Skull Bash
+Submission
+Take Down
+
+107 Hitmonchan:
+Bide
+Rage
+Skull Bash
+Submission
+Take Down
+
+108 Lickitung:
+Bide
+Bubble Beam
+Fissure
+Pay Day
+Rage
+Skull Bash
+Submission
+Take Down
+Water Gun
+
+109 Koffing:
+Bide
+Rage
+
+110 Weezing:
+Bide
+Rage
+
+111 Rhyhorn:
+Bide
+Fissure
+Leer
+Rage
+Teleport
+
+112 Rhydon:
+Bide
+Bubble Beam
+Fissure
+Leer
+Pay Day
+Rage
+Submission
+Teleport
+Water Gun
+
+113 Chansey:
+Bide
+Bubble Beam
+Psywave
+Rage
+Reflect
+Skull Bash
+Submission
+Teleport
+Tri Attack
+Water Gun
+
+114 Tangela:
+Bide
+Rage
+Skull Bash
+Take Down
+
+115 Kangaskhan:
+Bide
+Bubble Beam
+Fissure
+Skull Bash
+Submission
+Take Down
+Water Gun
+
+116 Horsea:
+Bide
+Horn Drill
+Rage
+Skull Bash
+Take Down
+
+117 Seadra:
+Bide
+Horn Drill
+Rage
+Skull Bash
+Take Down
+
+118 Goldeen:
+Bide
+Bubble Beam
+Rage
+Take Down
+Water Gun
+
+119 Seaking:
+Bide
+Bubble Beam
+Rage
+Take Down
+Water Gun
+
+120 Staryu:
+Bide
+Rage
+Skull Bash
+Take Down
+Teleport
+Tri Attack
+
+121 Starmie:
+Bide
+Bubble Beam
+Harden
+Rage
+Skull Bash
+Take Down
+Teleport
+Tri Attack
+
+122 Mr. Mime:
+Bide
+Rage
+Skull Bash
+Submission
+Take Down
+Teleport
+
+123 Scyther:
+Bide
+Rage
+Skull Bash
+Take Down
+
+124 Jynx:
+Bide
+Bubble Beam
+Psywave
+Rage
+Skull Bash
+Submission
+Take Down
+Teleport
+Thrash
+Water Gun
+
+125 Electabuzz:
+Bide
+Metronome
+Psywave
+Rage
+Reflect
+Skull Bash
+Submission
+Take Down
+Teleport
+
+126 Magmar:
+Bide
+Metronome
+Psywave
+Rage
+Skull Bash
+Submission
+Take Down
+Teleport
+
+127 Pinsir:
+Bide
+Rage
+Slash
+Take Down
+
+128 Tauros:
+Bide
+Fissure
+Horn Drill
+Leer
+Skull Bash
+Stomp
+
+129 Magikarp:
+
+130 Gyarados:
+Bide
+Bubble Beam
+Rage
+Reflect
+Skull Bash
+Tackle
+Take Down
+Water Gun
+
+131 Lapras:
+Bide
+Bubble Beam
+Dragon Rage
+Psywave
+Rage
+Reflect
+Skull Bash
+Solar Beam
+Take Down
+
+132 Ditto:
+
+133 Eevee:
+Bide
+Focus Energy
+Rage
+Reflect
+Sand-Attack
+Skull Bash
+
+134 Vaporeon:
+Bide
+Bite
+Body Slam
+Bubble Beam
+Double-Edge
+Mimic
+Mist
+Rage
+Reflect
+Sand-Attack
+Skull Bash
+
+135 Jolteon:
+Bide
+Rage
+Reflect
+Sand-Attack
+Skull Bash
+
+136 Flareon:
+Bide
+Leer
+Rage
+Reflect
+Sand-Attack
+Skull Bash
+Take Down
+
+137 Porygon:
+Bide
+Psywave
+Rage
+Reflect
+Skull Bash
+Take Down
+Teleport
+
+138 Omanyte:
+Horn Attack
+Horn Drill
+Rage
+Reflect
+Skull Bash
+Spike Cannon
+Submission
+Take Down
+
+139 Omastar:
+Horn Attack
+Horn Drill
+Rage
+Reflect
+Skull Bash
+Submission
+Take Down
+
+140 Kabuto:
+Bide
+Hydro Pump
+Rage
+Razor Wind
+Reflect
+Skull Bash
+Slash
+Submission
+Water Gun
+
+141 Kabutops:
+Bide
+Hydro Pump
+Rage
+Razor Wind
+Reflect
+Skull Bash
+Submission
+Water Gun
+
+142 Aerodactyl:
+Bide
+Dragon Rage
+Rage
+Razor Wind
+Reflect
+
+143 Snorlax:
+Bide
+Bubble Beam
+Harden
+Pay Day
+Psywave
+Rage
+Reflect
+Skull Bash
+Submission
+Take Down
+Water Gun
+
+144 Articuno:
+Bide
+Bubble Beam
+Peck
+Rage
+Razor Wind
+Take Down
+Water Gun
+Whirlwind
+
+145 Zapdos:
+Bide
+Rage
+Razor Wind
+Reflect
+Take Down
+Whirlwind
+
+146 Moltres:
+Bide
+Leer
+Peck
+Rage
+Razor Wind
+Reflect
+Take Down
+Whirlwind
+
+147 Dratini:
+Bide
+Bubble Beam
+Horn Drill
+Rage
+Reflect
+Skull Bash
+Take Down
+Water Gun
+
+148 Dragonair:
+Bide
+Bubble Beam
+Horn Drill
+Rage
+Reflect
+Skull Bash
+Take Down
+Water Gun
+
+149 Dragonite:
+Bide
+Bubble Beam
+Horn Drill
+Rage
+Razor Wind
+Reflect
+Skull Bash
+Take Down
+Water Gun
+
+150 Mewtwo:
+Bide
+Bubble Beam
+Psywave
+Rage
+Skull Bash
+Submission
+Take Down
+Teleport
+Tri Attack
+Water Gun
+
+151 Mew:
+Bide
+Bubble Beam
+Dragon Rage
+Egg Bomb
+Fissure
+Horn Drill
+Mega Drain
+Pay Day
+Psywave
+Rage
+Razor Wind
+Self-Destruct
+Skull Bash
+Submission
+Take Down
+Teleport
+Tri Attack
+Water Gun
+Whirlwind
